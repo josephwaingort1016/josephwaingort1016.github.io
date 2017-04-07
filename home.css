@@ -1,0 +1,39 @@
+
+
+.heading {
+    color: green;
+    text-align: center;
+   font-family: 'Molengo', sans-serif;
+}
+
+.Description {
+    color: black;
+    font-family: 'Molengo', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.Gallery {
+    margin-top: 60px;
+    color: white;
+    float: center;
+    padding: 1px;
+    font-family: 'Molengo', sans-serif;
+    font-size: 12px;
+    text-align: center;
+    background-color: green;
+}
+
+.captions {
+    font-size: 20px;
+    font-family: 'Molengo', sans-serif;
+    color: green;
+}
+
+body {
+    background-image: url('http://www.psdgraphics.com/file/gold-texture.jpg')
+}
+
+.logo {
+    text-align: center;
+}

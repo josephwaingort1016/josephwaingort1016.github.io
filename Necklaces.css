@@ -1,0 +1,33 @@
+
+.w3-content {
+     position: absolute;
+     left:43%;
+}
+
+.ForMore {
+    margin-top: 60px;
+    color: white;
+    padding: 1px;
+    font-family: 'Molengo', sans-serif;
+    font-size: 23px;
+    text-align: center;
+    background-color: green;
+}
+
+.heading {
+    font-size: 30px;
+    text-align: center;
+    color: green;
+    font-family: 'Molengo', sans-serif;
+    text-decoration: underline;
+}
+
+body {
+    background-image: url('http://www.psdgraphics.com/file/gold-texture.jpg')
+}
+
+.captions {
+    font-size: 25px;
+    font-family: 'Molengo', sans-serif;
+    color: green;
+}

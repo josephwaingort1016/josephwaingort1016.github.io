@@ -1,0 +1,53 @@
+body {
+    background-image: url('http://www.psdgraphics.com/file/gold-texture.jpg')
+}
+
+.Where {
+    font-size: 30px;
+    text-align: center;
+    color: green;
+    font-family: 'Molengo', sans-serif;
+    text-decoration: underline;
+}
+
+.House1 {
+    font-size: 23px;
+    color: black;
+    font-family: 'Molengo', sans-serif;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.house {
+    font-size: 20px;
+    font-family: 'Molengo', sans-serif;
+    margin-right: 10px;
+}
+
+.Show1 {
+    font-size: 23px;
+    color: black;
+    font-family: 'Molengo', sans-serif;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.show {
+    font-size: 20px;
+    font-family: 'Molengo', sans-serif;
+    margin-right: 10px;
+}
+
+.Free1 {
+     font-size: 23px;
+    color: black;
+    font-family: 'Molengo', sans-serif;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.free {
+     font-size: 20px;
+    font-family: 'Molengo', sans-serif;
+    margin-right: 10px;
+}
