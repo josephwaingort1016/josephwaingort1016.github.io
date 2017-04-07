@@ -1,1 +1,2 @@
-# Jades Jewels: jadesjewels.org
+# Jades Jewels
+jadesjewels.org
